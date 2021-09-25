@@ -1,0 +1,6 @@
+This is the sample file that is ready to be committed to git repository 
+
+This is the second line after tacking the file
+
+
+
